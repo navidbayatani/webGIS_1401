@@ -1,0 +1,15 @@
+D:\c_sharp\countingHTMLtags\countingHTMLtags\bin\Debug\net6.0\countingHTMLtags.exe
+D:\c_sharp\countingHTMLtags\countingHTMLtags\bin\Debug\net6.0\countingHTMLtags.deps.json
+D:\c_sharp\countingHTMLtags\countingHTMLtags\bin\Debug\net6.0\countingHTMLtags.runtimeconfig.json
+D:\c_sharp\countingHTMLtags\countingHTMLtags\bin\Debug\net6.0\countingHTMLtags.dll
+D:\c_sharp\countingHTMLtags\countingHTMLtags\bin\Debug\net6.0\countingHTMLtags.pdb
+D:\c_sharp\countingHTMLtags\countingHTMLtags\obj\Debug\net6.0\countingHTMLtags.csproj.AssemblyReference.cache
+D:\c_sharp\countingHTMLtags\countingHTMLtags\obj\Debug\net6.0\countingHTMLtags.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_sharp\countingHTMLtags\countingHTMLtags\obj\Debug\net6.0\countingHTMLtags.AssemblyInfoInputs.cache
+D:\c_sharp\countingHTMLtags\countingHTMLtags\obj\Debug\net6.0\countingHTMLtags.AssemblyInfo.cs
+D:\c_sharp\countingHTMLtags\countingHTMLtags\obj\Debug\net6.0\countingHTMLtags.csproj.CoreCompileInputs.cache
+D:\c_sharp\countingHTMLtags\countingHTMLtags\obj\Debug\net6.0\countingHTMLtags.dll
+D:\c_sharp\countingHTMLtags\countingHTMLtags\obj\Debug\net6.0\refint\countingHTMLtags.dll
+D:\c_sharp\countingHTMLtags\countingHTMLtags\obj\Debug\net6.0\countingHTMLtags.pdb
+D:\c_sharp\countingHTMLtags\countingHTMLtags\obj\Debug\net6.0\countingHTMLtags.genruntimeconfig.cache
+D:\c_sharp\countingHTMLtags\countingHTMLtags\obj\Debug\net6.0\ref\countingHTMLtags.dll
