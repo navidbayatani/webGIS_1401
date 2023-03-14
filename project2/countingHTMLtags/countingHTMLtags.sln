@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "count_specific_word", "count_specific_word\count_specific_word.csproj", "{334EA10A-9DCE-4707-9CB7-D37773515954}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "count_specific_word", "count_specific_word\count_specific_word.csproj", "{334EA10A-9DCE-4707-9CB7-D37773515954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting_HTMLtags", "Counting_HTMLtags\Counting_HTMLtags.csproj", "{CA1D8857-A0A1-432B-8000-EE1E7FFC5284}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{334EA10A-9DCE-4707-9CB7-D37773515954}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{334EA10A-9DCE-4707-9CB7-D37773515954}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{334EA10A-9DCE-4707-9CB7-D37773515954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1D8857-A0A1-432B-8000-EE1E7FFC5284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1D8857-A0A1-432B-8000-EE1E7FFC5284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1D8857-A0A1-432B-8000-EE1E7FFC5284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1D8857-A0A1-432B-8000-EE1E7FFC5284}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

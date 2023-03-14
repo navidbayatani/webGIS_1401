@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\web_GIS\\webGIS_1401\\project2\\countingHTMLtags\\count_specific_word\\count_specific_word.csproj": {}
+    "D:\\web_GIS\\webGIS_projects\\webGIS_1401\\project2\\countingHTMLtags\\count_specific_word\\count_specific_word.csproj": {}
   },
   "projects": {
-    "D:\\web_GIS\\webGIS_1401\\project2\\countingHTMLtags\\count_specific_word\\count_specific_word.csproj": {
+    "D:\\web_GIS\\webGIS_projects\\webGIS_1401\\project2\\countingHTMLtags\\count_specific_word\\count_specific_word.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\web_GIS\\webGIS_1401\\project2\\countingHTMLtags\\count_specific_word\\count_specific_word.csproj",
+        "projectUniqueName": "D:\\web_GIS\\webGIS_projects\\webGIS_1401\\project2\\countingHTMLtags\\count_specific_word\\count_specific_word.csproj",
         "projectName": "count_specific_word",
-        "projectPath": "D:\\web_GIS\\webGIS_1401\\project2\\countingHTMLtags\\count_specific_word\\count_specific_word.csproj",
+        "projectPath": "D:\\web_GIS\\webGIS_projects\\webGIS_1401\\project2\\countingHTMLtags\\count_specific_word\\count_specific_word.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\web_GIS\\webGIS_1401\\project2\\countingHTMLtags\\count_specific_word\\obj\\",
+        "outputPath": "D:\\web_GIS\\webGIS_projects\\webGIS_1401\\project2\\countingHTMLtags\\count_specific_word\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

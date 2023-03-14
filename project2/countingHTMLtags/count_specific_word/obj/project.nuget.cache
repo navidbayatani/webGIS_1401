@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2nCY816Wu8TRiy5prIlrwbhigIlFAqIK+M28ZPbKOj4FqqgmTVE1EkYwwrIs4/euj5j5B9CjJ4npgYMadmI8lw==",
+  "dgSpecHash": "bq8GMIUUkpbfvAM2fqGoqD2I/Z5jNs8PxjRfAhtLQmsEIyepRY1Sbi+jLZ7obOkMYKLfoYzpS7s24M5bKHKq3w==",
   "success": true,
-  "projectFilePath": "D:\\web_GIS\\webGIS_1401\\project2\\countingHTMLtags\\count_specific_word\\count_specific_word.csproj",
+  "projectFilePath": "D:\\web_GIS\\webGIS_projects\\webGIS_1401\\project2\\countingHTMLtags\\count_specific_word\\count_specific_word.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
