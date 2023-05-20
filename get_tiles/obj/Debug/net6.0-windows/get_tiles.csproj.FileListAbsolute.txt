@@ -1,0 +1,17 @@
+D:\abbaspur\get_tiles\bin\Debug\net6.0-windows\get_tiles.exe
+D:\abbaspur\get_tiles\bin\Debug\net6.0-windows\get_tiles.deps.json
+D:\abbaspur\get_tiles\bin\Debug\net6.0-windows\get_tiles.runtimeconfig.json
+D:\abbaspur\get_tiles\bin\Debug\net6.0-windows\get_tiles.dll
+D:\abbaspur\get_tiles\bin\Debug\net6.0-windows\get_tiles.pdb
+D:\abbaspur\get_tiles\obj\Debug\net6.0-windows\get_tiles.csproj.AssemblyReference.cache
+D:\abbaspur\get_tiles\obj\Debug\net6.0-windows\get_tiles.Form1.resources
+D:\abbaspur\get_tiles\obj\Debug\net6.0-windows\get_tiles.csproj.GenerateResource.cache
+D:\abbaspur\get_tiles\obj\Debug\net6.0-windows\get_tiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\abbaspur\get_tiles\obj\Debug\net6.0-windows\get_tiles.AssemblyInfoInputs.cache
+D:\abbaspur\get_tiles\obj\Debug\net6.0-windows\get_tiles.AssemblyInfo.cs
+D:\abbaspur\get_tiles\obj\Debug\net6.0-windows\get_tiles.csproj.CoreCompileInputs.cache
+D:\abbaspur\get_tiles\obj\Debug\net6.0-windows\get_tiles.dll
+D:\abbaspur\get_tiles\obj\Debug\net6.0-windows\refint\get_tiles.dll
+D:\abbaspur\get_tiles\obj\Debug\net6.0-windows\get_tiles.pdb
+D:\abbaspur\get_tiles\obj\Debug\net6.0-windows\get_tiles.genruntimeconfig.cache
+D:\abbaspur\get_tiles\obj\Debug\net6.0-windows\ref\get_tiles.dll
