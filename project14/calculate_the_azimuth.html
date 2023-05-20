@@ -1,0 +1,39 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <p id="demo">hi</p>
+    x1= <input type="number" id="textInput1"><br>
+    x2= <input type="number" id="textInput2"><br>
+    x2= <input type="number" name="parameter2"><br>
+    y1= <input type="number" name="parameter3"><br>
+    y2= <input type="number" name="parameter4"><br>
+    <button type="button" onclick="myFunction()">calculate azimuth</button>
+    <script>
+       
+
+        class Member {
+            constructor(x1, x2, y1 ,y2) {
+                this.x1 = x1;
+                this.x2 = x2;
+                this.y1 = y1;
+                this.y2 = y2;
+                this.az = x1+x2
+            }
+            
+        }
+        function myFunction() {
+            let input = document.getElementById("textInput1")+document.getElementById("textInput2");
+            
+            }
+        
+        document.getElementById("demo").innerHTML = Member.this.az;
+    </script>
+    
+</body>
+</html>
