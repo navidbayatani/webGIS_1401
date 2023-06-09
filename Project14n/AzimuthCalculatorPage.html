@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Azimuth Calculator</title>
+</head>
+<body>
+    <p style="font-size: 24px;">
+        <strong> enter coordinates of points</strong>
+    </p>
+    <br>
+    <br>
+    <form id="azimuthForm" style="margin-left: 50px;">
+        Coordinates of point 1 : <input id="x1" type="text" placeholder="Longitude"> <input id="y1" type="text"
+            placeholder="Latitude"><br>
+        <br>
+        Coordinates of point 2 : <input id="x2" type="text" placeholder="Longitude"> <input id="y2" type="text"
+            placeholder="Latitude"><br>
+    </form>
+    <button onclick="calculateAzimuth()" style="margin-left: 500px;">Calculate</button>
+    <div id="azimuthResult" style="margin-left: 500px;"></div>
+
+    <script src="azimuthcalculation.js"></script>
+</body>
+</html>
