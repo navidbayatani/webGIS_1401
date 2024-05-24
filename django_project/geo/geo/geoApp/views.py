@@ -8,27 +8,18 @@ def home(request):
     # folium
     m = folium.Map(location=[35.6892, 51.3890], zoom_start=9)  # Setting Tehran's coordinates
 
-    # Collecting properties of all hotels
-    hotel_properties = []
+    # Style for hotel
+    style_hotel = {'fillColor': '#FF0000', 'color': '#FF0000'}
+
+    # Adding hotel layer to the map
     with open(os.path.join(shp_dir, 'hotel.geojson'), encoding='utf-8') as f:
         geojson_data = f.read()
-        hotels = folium.GeoJson(geojson_data)
-        for feature in hotels.data['features']:
-            properties = feature['properties']
-            hotel_properties.append(properties)
-
-    # Formatting properties into HTML content for the popup
-    popup_content = '<h3>Hotels Information</h3><ul>'
-    for hotel in hotel_properties:
-        popup_content += '<li>'
-        for key, value in hotel.items():
-            popup_content += f'<strong>{key}:</strong> {value}<br>'
-        popup_content += '</li>'
-    popup_content += '</ul>'
-
-    # Adding popup with all hotel features to the map
-    popup = folium.Popup(popup_content, max_width=800)
-    folium.Marker([35.6892, 51.3890], popup=popup).add_to(m)  # Marker at Tehran's coordinates
+        folium.GeoJson(
+            geojson_data,
+            name='hotels',
+            style_function=lambda x: style_hotel,
+            popup=folium.GeoJsonPopup(fields=['name', 'tourism'], aliases=['Name', 'Type'])
+        ).add_to(m)
 
     # Style for basin and rivers
     style_basin = {'fillColor': '#228B22', 'color': '#228B22'}
