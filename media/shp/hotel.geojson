@@ -1,0 +1,2433 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-05-24T16:33:56Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1081988173",
+        "internet_access": "wlan",
+        "name": "هتل خیام",
+        "name:en": "Hotel Khayyam",
+        "name:ru": "Кхайям",
+        "tourism": "hotel",
+        "wpt_symbol": "Lodging"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4287009, 35.686988]
+      },
+      "id": "node/1081988173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1179494570",
+        "name": "هتل البرز",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.3994208, 35.7032045]
+      },
+      "id": "node/1179494570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1422601644",
+        "name": "هتل چینی ها",
+        "name:en": "Chinese hotel in Tehran",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.3996061, 35.6831878]
+      },
+      "id": "node/1422601644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179926755",
+        "name": "هتل رامتین",
+        "name:en": "Raamtin Residence Hotel",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://raamtinhotel.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4114736, 35.7321766]
+      },
+      "id": "node/2179926755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3063991610",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "هتل اطلس",
+        "name:en": "Atlas Hotel",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4183566, 35.7071141]
+      },
+      "id": "node/3063991610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3773648495",
+        "addr:street": "امیر کبیر",
+        "internet_access": "wlan",
+        "name": "هتل فیروزه",
+        "name:en": "Firouzeh hotel",
+        "name:ru": "Фирузе",
+        "phone": "+98 213311 3508",
+        "tourism": "hotel",
+        "website": "http://www.firouzehhotel.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4291063, 35.6869365]
+      },
+      "id": "node/3773648495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3784838011",
+        "addr:housenumber": "513",
+        "addr:street": "حافظ",
+        "addr:street:en": "Hafez Avenue",
+        "building": "yes",
+        "fax": "+98 21 88804200",
+        "name": "پرشیا",
+        "name:en": "Persia Hotel",
+        "phone": "+98 21 88804180",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4130449, 35.7018212]
+      },
+      "id": "node/3784838011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3800218091",
+        "name": "هتل آرمان",
+        "name:en": "Arman hotel",
+        "phone": "+98 21 3311 2323",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4252907, 35.6876501]
+      },
+      "id": "node/3800218091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4071227441",
+        "addr:housenumber": "419",
+        "addr:street": "لاله زار نو",
+        "name": "هتل مرکزی",
+        "name:en": "Hotel Central Iran",
+        "name:zh": "已訂酒店",
+        "phone": "+98 21 3399 6576",
+        "source": "survey",
+        "tourism": "hotel",
+        "website": "https://en.hotelmarkazi.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4235111, 35.695571]
+      },
+      "id": "node/4071227441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4174120590",
+        "name": "هتل المپیک تهران",
+        "name:en": "Olympic Hotel",
+        "name:tr": "Olimpik otel",
+        "phone": "+98 21 44 739 300; +98 21 44 739 270; +98 21 44 739 277",
+        "tourism": "hotel",
+        "website": "https://olympichotel.ir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.2667874, 35.7235651]
+      },
+      "id": "node/4174120590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4183162104",
+        "alt_name:en": "Meigoun Tourist Hotel",
+        "internet_access": "wlan",
+        "name": "هتل جهانگردی میگون",
+        "name:en": "Meygoon Tourist Hotel",
+        "operator": "شرکت سرمایه‌گذاری ایرانگردی و جهانگردی",
+        "operator:en": "ITTIC Iran Touring & Tourism Investment Company",
+        "rooms": "36",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4966797, 35.9529822]
+      },
+      "id": "node/4183162104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4222256233",
+        "name": "هتل شیان",
+        "name:en": "Shiyan Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4962095, 35.7649903]
+      },
+      "id": "node/4222256233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4242973589",
+        "name": "هتل سعدی",
+        "name:en": "Saadi",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4233763, 35.6949626]
+      },
+      "id": "node/4242973589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259335193",
+        "name": "هتل رستوران مروارید",
+        "name:en": "Morvarid Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4264941, 35.7175038]
+      },
+      "id": "node/4259335193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275727190",
+        "name": "فردیس",
+        "name:en": "Fardis hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4217896, 35.7038105]
+      },
+      "id": "node/4275727190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4284535091",
+        "addr:city": "تهران",
+        "addr:housenumber": "19",
+        "addr:street": "امیرکبیر",
+        "guest_house": "hotel",
+        "internet_access": "wlan",
+        "name": "هتل مهر",
+        "name:fa": "هتل مهر",
+        "rooms": "31",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.427825, 35.6867906]
+      },
+      "id": "node/4284535091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4288305289",
+        "name": "هتل گلستان",
+        "name:en": "Golestan Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4098932, 35.687212]
+      },
+      "id": "node/4288305289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4326600091",
+        "name": "هتل امید",
+        "name:en": "Hotel Omid",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.3907651, 35.7054655]
+      },
+      "id": "node/4326600091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4351254589",
+        "name": "هتل سپهر",
+        "name:en": "sepehr hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4254512, 35.8001485]
+      },
+      "id": "node/4351254589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4358540946",
+        "addr:housenumber": "124",
+        "addr:street": "دکتر مفتح",
+        "internet_access": "wlan",
+        "name": "هتل مشهد",
+        "name:en": "Hotel Mashad",
+        "opening_hours": "24/7",
+        "phone": "+982188822681",
+        "tourism": "hotel",
+        "website": "http://www.hotelmashad.ir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4255665, 35.706376]
+      },
+      "id": "node/4358540946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4379056993",
+        "addr:housenumber": "60",
+        "addr:street": "فتحی شقاقی",
+        "internet_access": "wlan",
+        "name": "هتل ساینا",
+        "name:en": "Saina Hotel",
+        "opening_hours": "24/7",
+        "phone": "+982188100042",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.406314, 35.7237332]
+      },
+      "id": "node/4379056993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4391938595",
+        "addr:housenumber": "278",
+        "addr:street": "کشاورز",
+        "internet_access": "wlan",
+        "name": "هتل بولواز",
+        "name:en": "Bolvar Hotel",
+        "opening_hours": "24/7",
+        "phone": "+982188960533",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.3935117, 35.7075261]
+      },
+      "id": "node/4391938595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4396465089",
+        "name": "hodhod",
+        "name:en": "Hodhod Hotel",
+        "name:fa": "هتل هدهد",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4065212, 35.707492]
+      },
+      "id": "node/4396465089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4403707690",
+        "name": "هتل امیرکبیر",
+        "name:en": "Amir Kabir hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4226874, 35.6831073]
+      },
+      "id": "node/4403707690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4411451291",
+        "addr:street": "شهید مطهری, motahary st",
+        "name": "هتل آراد",
+        "name:en": "Arad hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4118077, 35.7226596]
+      },
+      "id": "node/4411451291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4446096893",
+        "internet_access": "wlan",
+        "name": "هتل آپارتمان پارس",
+        "name:en": "Pars Apartment Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.396403, 35.6981781]
+      },
+      "id": "node/4446096893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4466317502",
+        "name": "هتل دزاشیب",
+        "name:en": "Dezashib Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4448098, 35.8076438]
+      },
+      "id": "node/4466317502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4467426090",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4229213, 35.683798]
+      },
+      "id": "node/4467426090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469632790",
+        "addr:housenumber": "136",
+        "addr:street": "ملت",
+        "email": "info@asiahotel.biz",
+        "internet_access": "wlan",
+        "name": "هتل آسیا",
+        "name:en": "Asia Hotel",
+        "note": "Email: info@asiahotel.biz family owned hotel",
+        "phone": "+982133118320;+982133118551",
+        "tourism": "hotel",
+        "website": "http://asiahotel.biz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4270301, 35.6881757]
+      },
+      "id": "node/4469632790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4471499091",
+        "name": "هتل باباطاهر",
+        "name:en": "Babataher Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4189632, 35.7048293]
+      },
+      "id": "node/4471499091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4473353992",
+        "addr:street": "دکتر مفتح",
+        "internet_access": "wlan",
+        "name": "هتل پامچال",
+        "name:en": "pamchal hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4238277, 35.7043138]
+      },
+      "id": "node/4473353992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4479107498",
+        "name": "هتل آپارتمان مهرگان",
+        "name:en": "Mehregan Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4180452, 35.7099009]
+      },
+      "id": "node/4479107498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4492278836",
+        "name": "مرکز رفاهی فرهنگی خانه معلم",
+        "operator": "آموزش و پرورش",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4101908, 35.7663686]
+      },
+      "id": "node/4492278836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4493314057",
+        "name": "خانه معلم",
+        "name:en": "Khaneye Moallem",
+        "phone": "+98 21 224 20863;+98 21 224 20865",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.385423, 35.8053128]
+      },
+      "id": "node/4493314057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4563118996",
+        "addr:street": "Ardalan Street",
+        "name": "سفیر",
+        "name:en": "Safir",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.423506, 35.7106203]
+      },
+      "id": "node/4563118996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4577561604",
+        "addr:street": "طالقانی",
+        "name": "هتل پارسا",
+        "name:en": "Parsa Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4067369, 35.7063967]
+      },
+      "id": "node/4577561604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4590659390",
+        "internet_access": "wlan",
+        "name": "فردوسی",
+        "name:de": "Ferdowsi (Herberge)",
+        "name:en": "Ferdowsi",
+        "source:name": "map.ir",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.3980994, 35.6616173]
+      },
+      "id": "node/4590659390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4625274089",
+        "addr:housenumber": "18",
+        "addr:street": "18, Ghafari Street",
+        "email": "karoonhotel@gmail.com",
+        "internet_access": "wlan",
+        "name": "هتل کارون",
+        "name:en": "Karoon Hotel",
+        "name:it": "hotel karun",
+        "name:ru": "Карун",
+        "phone": "+98 21 8880 60403",
+        "tourism": "hotel",
+        "website": "https://www.karoonhotel.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.406859, 35.7184359]
+      },
+      "id": "node/4625274089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4644979597",
+        "addr:city": "شهر ری",
+        "name": "مرکز آموزشی رفاهی فرهنگیان شهر ری",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4389118, 35.5995758]
+      },
+      "id": "node/4644979597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4644986945",
+        "name": "اسکان فرهنگیان مژده",
+        "name:en": "Mozhde Camp",
+        "phone": "+982122212077",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.440518, 35.7992957]
+      },
+      "id": "node/4644986945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4660481351",
+        "name": "محل اسکان اداره کل آموزش و پرورش استان تهران (مجردی)",
+        "phone": "+98 21 6641 2803",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4004157, 35.7031499]
+      },
+      "id": "node/4660481351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4660618747",
+        "name": "اسکان فرهنگیان - مهد گل ها",
+        "phone": "+98 21 6620 4056",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.324788, 35.6597384]
+      },
+      "id": "node/4660618747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4663786830",
+        "name": "ستاد اسکان فرهنگیان - اسکان شهید منتظری",
+        "phone": "+982188471743",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4427632, 35.7280102]
+      },
+      "id": "node/4663786830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4684547490",
+        "name": "هتل شیراز",
+        "name:en": "Shiraz hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4253572, 35.6957898]
+      },
+      "id": "node/4684547490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4758179821",
+        "name": "فندق طهران العاوي",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.3960973, 35.6618801]
+      },
+      "id": "node/4758179821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4783008635",
+        "addr:city": "تهران",
+        "addr:street": "آیت الله طالقانی",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "هتل آپادانا",
+        "name:en": "Apadana hotel",
+        "rooms": "19",
+        "source:name": "map.ir",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4290325, 35.7068857]
+      },
+      "id": "node/4783008635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4808345730",
+        "addr:housenumber": "3",
+        "addr:street": "Lahijani, 7th (Fouzi) Street",
+        "internet_access": "wlan",
+        "name": "هتل نيلو",
+        "name:en": "Niloo Hotel",
+        "name:uk": "Niloo Hotel",
+        "opening_hours": "24/7",
+        "phone": "88202018",
+        "tourism": "hotel",
+        "website": "http://www.hotelniloo.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.409807, 35.7523321]
+      },
+      "id": "node/4808345730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4827165623",
+        "addr:street": "نیلوفر",
+        "name": "هتل باغ",
+        "name:en": "hotel bagh",
+        "source:name": "map.ir",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.580805, 35.7353839]
+      },
+      "id": "node/4827165623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4833253428",
+        "addr:street": "بهار جنوبی",
+        "internet_access": "wlan",
+        "name": "هتل بهار",
+        "name:en": "Bahar Hotel",
+        "name:fr": "Hotel Bahar",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4283683, 35.7021125]
+      },
+      "id": "node/4833253428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4880644621",
+        "name": "هتل ونوس",
+        "name:en": "Hotel Venoos",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4403501, 35.728637]
+      },
+      "id": "node/4880644621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4929328937",
+        "name": "هتل پاریز",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4211574, 35.7649776]
+      },
+      "id": "node/4929328937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4954503723",
+        "name": "هتل ارس",
+        "name:en": "Aras Hotel",
+        "source:name": "map.ir",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4235459, 35.6835029]
+      },
+      "id": "node/4954503723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4960920121",
+        "name": "هتل هالی",
+        "name:ar": "فندق طهران",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4174273, 35.7060346]
+      },
+      "id": "node/4960920121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5034340515",
+        "name": "مجتمع گردشگری واقامتی پذیرایی باغ گیلاس",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.0500162, 35.6241389]
+      },
+      "id": "node/5034340515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5039770724",
+        "name": "هتل مرکزی",
+        "name:en": "Hotel Markazi",
+        "source:name": "map.ir",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4235998, 35.6968916]
+      },
+      "id": "node/5039770724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5045374423",
+        "name": "هتل سهند",
+        "name:en": "Sahand",
+        "source:name": "map.ir",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.423383, 35.683111]
+      },
+      "id": "node/5045374423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5047317821",
+        "name": "مهمان پذیر حقیقت فر",
+        "name:ar": "فندق راقي ورخيص بشارع سعدي",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.423567, 35.6847892]
+      },
+      "id": "node/5047317821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5052308079",
+        "name": "هتل آکادمی ملی المپیک",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4024967, 35.7813028]
+      },
+      "id": "node/5052308079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5053326821",
+        "addr:street": "آیت‌الله طالقانی",
+        "internet_access": "wlan",
+        "name": "هتل امیر",
+        "name:en": "Amir Hotel",
+        "phone": "+982188304066-9",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4203916, 35.7067475]
+      },
+      "id": "node/5053326821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5064855921",
+        "addr:housenumber": "7",
+        "addr:street": "۳۷",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.1774874, 35.7257051]
+      },
+      "id": "node/5064855921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109662124",
+        "name:fr": "Shahriyar hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4228307, 35.683441]
+      },
+      "id": "node/5109662124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5110920921",
+        "addr:housenumber": "7 Sadri Alley",
+        "addr:street": "سهروردی جنوبی",
+        "contact:mobile": "+989360116784",
+        "name": "هتل هدهد",
+        "name:en": "Hodhod Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4347235, 35.7175775]
+      },
+      "id": "node/5110920921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5120608631",
+        "name": "خوابگاه متاهلی",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.1545864, 35.758233]
+      },
+      "id": "node/5120608631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5149342921",
+        "name": "هتل وصال",
+        "name:en": "Vesal Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4000125, 35.7013777]
+      },
+      "id": "node/5149342921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5174989823",
+        "addr:street": "افشاری",
+        "name": "هتل رودکی",
+        "name:en": "Roudaki Residence Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4091297, 35.7002172]
+      },
+      "id": "node/5174989823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210383113",
+        "air_conditioning": "yes",
+        "ele": "2270",
+        "name": "هتل اوسون",
+        "name:en": "Osoun",
+        "stars": "2",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4196562, 35.846283]
+      },
+      "id": "node/5210383113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210720621",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4125318, 35.6807326]
+      },
+      "id": "node/5210720621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5302441621",
+        "name": "هتل آپارتمان رازی",
+        "name:en": "Hotel Apartment Razi",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4078518, 35.7011146]
+      },
+      "id": "node/5302441621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5352750224",
+        "email": "info@diamondhotel.ir",
+        "name": "هتل دیاموند",
+        "name:en": "Diamond Hotel",
+        "phone": "+982126212610;+982126212449;+982126212469;+982126212494",
+        "tourism": "hotel",
+        "website": "http://www.diamondhotel.ir/main/index.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4227446, 35.7868739]
+      },
+      "id": "node/5352750224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5595641621",
+        "name": "مارلیک",
+        "name:en": "Marlik",
+        "source:name": "map.ir",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4258541, 35.7058353]
+      },
+      "id": "node/5595641621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5612094421",
+        "name": "هتل اسکان فرصت",
+        "name:en": "Escan Forsat Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.421552, 35.7042892]
+      },
+      "id": "node/5612094421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5639944321",
+        "addr:street": "برادران مظفر",
+        "name": "مهمان سرای امور عشایر تهران",
+        "name:en": "mehmansaray omor ashaer tehran",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4052951, 35.7080715]
+      },
+      "id": "node/5639944321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5700835888",
+        "addr:city": "تهران",
+        "addr:street": "ولی عصر",
+        "name": "هتل‌آپارتمان پردیس",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4116681, 35.7543435]
+      },
+      "id": "node/5700835888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5785238153",
+        "name": "هتل میلاد",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4238231, 35.6839438]
+      },
+      "id": "node/5785238153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5873990587",
+        "addr:street": "rajabi",
+        "alt_name:en": "Kak sardat",
+        "name:en": "Home tehran",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.3570638, 35.6772306]
+      },
+      "id": "node/5873990587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5909243685",
+        "addr:housenumber": "3rd block",
+        "addr:street": "سعدی جنوبی",
+        "internet_access": "wlan",
+        "name": "مهمانپذیر مسرت",
+        "name:en": "masserat hotel",
+        "opening_hours": "24/7",
+        "phone": "+982133924885",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4236109, 35.6849638]
+      },
+      "id": "node/5909243685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6049009885",
+        "addr:housenumber": "162",
+        "addr:postcode": "11369",
+        "addr:street": "مولوی",
+        "internet_access": "wlan",
+        "name": "طاها",
+        "name:de": "Taha Hostel",
+        "name:en": "Taha Hostel",
+        "phone": "+989127393531",
+        "source:name": "map.ir",
+        "tourism": "hotel",
+        "website": "http://tahahostel.group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4315441, 35.6692871]
+      },
+      "id": "node/6049009885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6116690757",
+        "name": "هتل نادری نو",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.41617, 35.6963386]
+      },
+      "id": "node/6116690757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6116690758",
+        "name": "هتل سعدی",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4232966, 35.694005]
+      },
+      "id": "node/6116690758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6205932045",
+        "name": "۹ کوجة قریبتی",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4530418, 35.6192914]
+      },
+      "id": "node/6205932045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6239658045",
+        "name": "هتل آزادی",
+        "name:en": "Azadi Hotel",
+        "phone": "+98 21 88830194",
+        "tourism": "hotel",
+        "website": "https://www.azadihoteltehran.ir/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4234094, 35.7056176]
+      },
+      "id": "node/6239658045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6263167185",
+        "name": "خانه معلم",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.3858601, 35.6829875]
+      },
+      "id": "node/6263167185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6327890085",
+        "addr:street": "Off Jomhuri-Ye Eslami Ave",
+        "internet_access": "wlan",
+        "name:en": "Parasto Hotel",
+        "name:nl": "Parasto hotel",
+        "phone": "+98212166702422",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4134527, 35.6972567]
+      },
+      "id": "node/6327890085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6417490099",
+        "addr:housenumber": "61",
+        "addr:street": "جمالزاده",
+        "name": "پاسارگارد",
+        "name:en": "pasargad",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.3892172, 35.6983047]
+      },
+      "id": "node/6417490099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6421519885",
+        "name": "هتل ستاره ویلا",
+        "name:en": "Hotel Setareyeh Villa",
+        "phone": "+982188924435",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4153433, 35.7086421]
+      },
+      "id": "node/6421519885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6426839385",
+        "name:ar": "فندق طهران",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4565902, 35.6187312]
+      },
+      "id": "node/6426839385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6482630337",
+        "name": "4 Star",
+        "stars": "4",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.181661, 35.7597182]
+      },
+      "id": "node/6482630337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6482630338",
+        "name": "5 Star",
+        "stars": "5",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.1766506, 35.7666306]
+      },
+      "id": "node/6482630338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6482630339",
+        "name": "3 Star",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.182133, 35.7588475]
+      },
+      "id": "node/6482630339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6505909185",
+        "name": "هتل قناری",
+        "name:en": "Canary Hotel",
+        "phone": "+98 21 8882 5616",
+        "tourism": "hotel",
+        "website": "http://www.hotel-canary.com/canary/index.php/en/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4222068, 35.705563]
+      },
+      "id": "node/6505909185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6588003588",
+        "name": "هتل فارس",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4237007, 35.6836843]
+      },
+      "id": "node/6588003588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6597900985",
+        "addr:street": "سپند",
+        "internet_access": "wlan",
+        "name": "هتل بزرگ تهران ۲",
+        "name:en": "Tehran Grand Hotel 2",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4162675, 35.7112773]
+      },
+      "id": "node/6597900985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6660332885",
+        "name": "دولة اباد",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.3827598, 35.711347]
+      },
+      "id": "node/6660332885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6681171886",
+        "addr:street": "قرقاول",
+        "name": "مهمانسرای مخابرات",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4415982, 35.7414342]
+      },
+      "id": "node/6681171886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6822446821",
+        "addr:city": "تهران",
+        "addr:housenumber": "42",
+        "addr:street": "سهروردی شمالی، میرزایی زینالی شرقی",
+        "brand": "plaza",
+        "email": "info@persianplazahotel.com",
+        "fax": "021-89783174",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "name": "هتل پرشین پلازا",
+        "name:en": "persian plaza hotel",
+        "name:fa": "هتل پرشین پلازا",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "phone": "+98 21 8602 7813",
+        "rooms": "100",
+        "smoking": "isolated",
+        "stars": "5",
+        "start_date": "2019",
+        "tourism": "hotel",
+        "website": "https://www.persianplazahotel.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4398908, 35.7285305]
+      },
+      "id": "node/6822446821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6923409885",
+        "addr:street": "ولی عصر",
+        "internet_access": "wlan",
+        "name": "هتل آپارتمان ایده آل",
+        "name:en": "Ideal Apt. Hotel",
+        "phone": "+98 21 8892 0840",
+        "tourism": "hotel",
+        "website": "http://www.hotelideal.ir/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4078838, 35.7197252]
+      },
+      "id": "node/6923409885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6927342185",
+        "name": "فندق بي انا",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4231252, 35.6835852]
+      },
+      "id": "node/6927342185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936851486",
+        "name:en": "Taj Mahal",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.3963943, 35.7523804]
+      },
+      "id": "node/6936851486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7092438024",
+        "name": "هتل ویستریا",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.433883, 35.8086481]
+      },
+      "id": "node/7092438024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7191073585",
+        "name:ar": "فندق",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4074921, 35.7073339]
+      },
+      "id": "node/7191073585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7199570285",
+        "name:ar": "فندق خداده  حی کوچه ریاض",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4073483, 35.7075156]
+      },
+      "id": "node/7199570285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7675651240",
+        "name": "هتل اسکان الوند",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4142168, 35.7438359]
+      },
+      "id": "node/7675651240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7772161519",
+        "name": "هتل شهسوار",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4305857, 35.6858569]
+      },
+      "id": "node/7772161519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7772161527",
+        "name": "هتل عاطفه",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.430567, 35.6863149]
+      },
+      "id": "node/7772161527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8010751151",
+        "addr:housenumber": "401",
+        "addr:street": "آیت الله طالقانی",
+        "contact:fax": "40882535",
+        "email": "info@atanahotel.ir",
+        "name": "هتل آتانا",
+        "name:en": "Atana Hotel",
+        "phone": "+98 41912",
+        "tourism": "hotel",
+        "website": "https://atanahotel.ir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4022793, 35.706473]
+      },
+      "id": "node/8010751151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8365199689",
+        "name": "هتل آپارتمان کیمیا",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.3934599, 35.6992734]
+      },
+      "id": "node/8365199689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8402129117",
+        "name": "مهناز",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4338804, 35.7210727]
+      },
+      "id": "node/8402129117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8528218400",
+        "addr:city": "Tehran",
+        "addr:housenumber": "3",
+        "addr:street": "Neauphle-le-Château St., Hafez Ave , Lolagar Alley",
+        "air_conditioning": "yes",
+        "brand": "HANNA",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "هتل حنا",
+        "name:en": "hanna boutique hotel",
+        "phone": "+9821 62 999 111",
+        "rooms": "7",
+        "tourism": "hotel",
+        "website": "https://hannaboutiquehotel.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4113964, 35.6966123]
+      },
+      "id": "node/8528218400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8562993758",
+        "addr:city": "تهران",
+        "addr:housenumber": "23",
+        "addr:street": "سعید ناصری",
+        "air_conditioning": "yes",
+        "name": "هتل آپارتمان ملل",
+        "name:en": "Melal Hotel Apartments",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.417702, 35.7689076]
+      },
+      "id": "node/8562993758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8646996884",
+        "name": "هتل ارم",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4371176, 35.7513751]
+      },
+      "id": "node/8646996884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8910489617",
+        "addr:city": "تهران",
+        "addr:street": "بالاتر از میدان ولیعصر",
+        "air_conditioning": "yes",
+        "brand": "هتل ولیعصر تهران",
+        "description": "هتل ولیعصر تهران، هتلی سه ستاره و در رده هتل های لوکس می باشد که در خیابان ولیعصر تهران یکی از قدیمیترین خیابان های تهران واقع شده است، بودن هتل ولیعصر در این مکان دسترسی آسان را به بزرگ راه و مکان های مهم پایتخت را امکانپذیر می سازد.",
+        "email": "info@valiasr-hotel.ir",
+        "image": "https://www.valiasr-hotel.ir/wp-content/uploads/2021/01/photo_%DB%B2%DB%B0%DB%B2%DB%B1-%DB%B0%DB%B1-%DB%B1%DB%B1_%DB%B0%DB%B7-%DB%B5%DB%B7-%DB%B0%DB%B2.jpg",
+        "internet_access": "wlan",
+        "name": "هتل ولیعصر",
+        "name:ar": "فندق الوليسر",
+        "name:en": "VALIASER HOTEL",
+        "name:fa": "هتل ولیعصر",
+        "opening_hours": "24/7",
+        "phone": "+982188924840",
+        "rooms": "46",
+        "tourism": "hotel",
+        "website": "https://www.valiasr-hotel.ir/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4072324, 35.7139452]
+      },
+      "id": "node/8910489617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8993939371",
+        "name": "هتل دیدار",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4166104, 35.7534334]
+      },
+      "id": "node/8993939371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9102130117",
+        "addr:housenumber": "82",
+        "addr:street": "دکتر مفتح جنوبی",
+        "internet_access": "wlan",
+        "name": "مینا هتل",
+        "name:en": "Hotel Mina",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4258006, 35.7042392]
+      },
+      "id": "node/9102130117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9122971417",
+        "name": "فندق ممتاز",
+        "name:ar": "ممتاز جدا",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4067804, 35.7059687]
+      },
+      "id": "node/9122971417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9359271817",
+        "name:ar": "فندق قرب السفاره العراقية طهران",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4050944, 35.7108211]
+      },
+      "id": "node/9359271817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9360150155",
+        "addr:street": "شهید بهشتی",
+        "name": "هتل روما",
+        "phone": "+98 21 8604 6044",
+        "tourism": "hotel",
+        "website": "https://romacomplex.ir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4145684, 35.7272604]
+      },
+      "id": "node/9360150155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9673525044",
+        "name": "هتل زیتون",
+        "public": "yes",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4008604, 35.7752042]
+      },
+      "id": "node/9673525044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910843517",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4538521, 35.6199355]
+      },
+      "id": "node/9910843517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910843518",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4539543, 35.6198639]
+      },
+      "id": "node/9910843518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910843519",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4538479, 35.6192149]
+      },
+      "id": "node/9910843519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9938028154",
+        "name": "هتل ری (دولت آباد)",
+        "phone": "+982136653667",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4554952, 35.6220383]
+      },
+      "id": "node/9938028154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9947177234",
+        "name": "هتل رضوان",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4080016, 35.7652254]
+      },
+      "id": "node/9947177234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10015726217",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4564025, 35.6162027]
+      },
+      "id": "node/10015726217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10020194817",
+        "name:ar": "فندق النورين / د.مسلم",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4563599, 35.6160177]
+      },
+      "id": "node/10020194817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10028951495",
+        "name": "Persi Guest House",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.373566, 35.7864822]
+      },
+      "id": "node/10028951495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10105871317",
+        "name": "فندق الي بطهران سنة ٢٠٢٢",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4554653, 35.6219804]
+      },
+      "id": "node/10105871317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10249665809",
+        "name": "هتل بانی",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4238303, 35.7801397]
+      },
+      "id": "node/10249665809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10287074409",
+        "name": "حسنی ابجی",
+        "name:en": "Hasani",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4340816, 35.6376122]
+      },
+      "id": "node/10287074409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10572179609",
+        "name": "هتل آماتیس",
+        "name:en": "amatis",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4217361, 35.7069104]
+      },
+      "id": "node/10572179609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594019921",
+        "name": "هتل ایرانشهر",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.420157, 35.7041547]
+      },
+      "id": "node/10594019921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594100309",
+        "name": "هتل الیان",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4234453, 35.6832023]
+      },
+      "id": "node/10594100309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594116802",
+        "name": "هتل طوبی",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4181989, 35.7691271]
+      },
+      "id": "node/10594116802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594137799",
+        "name": "هتل کوروش",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4396459, 35.7579358]
+      },
+      "id": "node/10594137799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594183159",
+        "name": "هتل پرشیا ۲",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.3987489, 35.6624197]
+      },
+      "id": "node/10594183159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594267008",
+        "name": "هتل وزرا",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4119025, 35.744454]
+      },
+      "id": "node/10594267008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594272397",
+        "name": "هتل ارگ سنگی سنگان",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.2310076, 35.8798708]
+      },
+      "id": "node/10594272397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594280118",
+        "name": "هتل بلور",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4178476, 35.7147405]
+      },
+      "id": "node/10594280118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594284967",
+        "name": "مهمانسرا صدریه",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4483986, 35.6662823]
+      },
+      "id": "node/10594284967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594291224",
+        "name": "هتل ساسان",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4377254, 35.7124712]
+      },
+      "id": "node/10594291224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594296801",
+        "name": "هتل دانش",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.1629707, 35.747198]
+      },
+      "id": "node/10594296801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594305746",
+        "name": "هتل آپارتمان فلامینگو",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4213505, 35.7026126]
+      },
+      "id": "node/10594305746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594309312",
+        "name": "مهمانسرا نیکو",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4255643, 35.7059679]
+      },
+      "id": "node/10594309312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594310570",
+        "name": "هتل آران",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4202696, 35.7219709]
+      },
+      "id": "node/10594310570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594310607",
+        "name": "هتل ثامن",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.425516, 35.6858678]
+      },
+      "id": "node/10594310607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594317927",
+        "name": "هتل نادری",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4168042, 35.6947417]
+      },
+      "id": "node/10594317927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594332738",
+        "name": "هتل آنامیس",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4123041, 35.761815]
+      },
+      "id": "node/10594332738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594358290",
+        "name": "هتل نادر",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.423794, 35.7169117]
+      },
+      "id": "node/10594358290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594358961",
+        "name": "مهمانسرا بعثت",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4283806, 35.6460304]
+      },
+      "id": "node/10594358961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594367945",
+        "name": "هتل پارادایس",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4043346, 35.699817]
+      },
+      "id": "node/10594367945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594375790",
+        "name": "هتل نظامیه",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.430167, 35.6894917]
+      },
+      "id": "node/10594375790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594384965",
+        "addr:housenumber": "5",
+        "addr:street": "دوم",
+        "contact:instagram": "setiya.hotel",
+        "name": "هتل ستیا",
+        "phone": "+98 21 2641 4754",
+        "tourism": "hotel",
+        "website": "https://www.setiyahotel.ir/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4334929, 35.7582145]
+      },
+      "id": "node/10594384965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594387115",
+        "name": "هتل تابان",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4179093, 35.7024438]
+      },
+      "id": "node/10594387115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594395514",
+        "name": "هتل الماس زعفرانیه",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4175123, 35.8136937]
+      },
+      "id": "node/10594395514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10595968633",
+        "name": "هتل فردوسی",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4217582, 35.6990296]
+      },
+      "id": "node/10595968633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10595979024",
+        "name": "هتل شهریار نوین",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.3930023, 35.6656166]
+      },
+      "id": "node/10595979024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10596021702",
+        "name": "هتل رونیا",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4227399, 35.7728637]
+      },
+      "id": "node/10596021702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10596025042",
+        "name": "مهمانسرا گلها",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4134997, 35.6685518]
+      },
+      "id": "node/10596025042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10716591805",
+        "name": "هتل پارسیان انقلاب",
+        "name:en": "PARSIAN Engehlab Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4088269, 35.7069027]
+      },
+      "id": "node/10716591805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10839155230",
+        "name": "بوتیک هتل پهلوان رزاز",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4330812, 35.6805345]
+      },
+      "id": "node/10839155230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11118708205",
+        "addr:housenumber": "14",
+        "addr:street": "مظفر",
+        "name": "هتل پارادایس",
+        "name:en": "Hotel Paradise",
+        "phone": "02166951962",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4043135, 35.6996314]
+      },
+      "id": "node/11118708205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11436699062",
+        "name": "هتل آپارتمان صدف",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.5208705, 35.738397]
+      },
+      "id": "node/11436699062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11474159269",
+        "addr:street": "بهرام مصیری",
+        "name:en": "Ideal Hotel Apartment",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4080015, 35.7196818]
+      },
+      "id": "node/11474159269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11746104637",
+        "name": "اسکان و هتل آپارتمان خانم بابایی",
+        "phone": "۰۹۱۹۴۷۱۱۷۶۵",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.2339676, 35.7524197]
+      },
+      "id": "node/11746104637"
+    }
+  ]
+}
