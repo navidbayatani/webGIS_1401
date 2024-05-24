@@ -1,0 +1,13 @@
+D:\web_GIS\webGIS_projects\webGIS_1401\project5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\web_GIS\webGIS_projects\webGIS_1401\project5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\web_GIS\webGIS_projects\webGIS_1401\project5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\web_GIS\webGIS_projects\webGIS_1401\project5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\web_GIS\webGIS_projects\webGIS_1401\project5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\web_GIS\webGIS_projects\webGIS_1401\project5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\web_GIS\webGIS_projects\webGIS_1401\project5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\web_GIS\webGIS_projects\webGIS_1401\project5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\web_GIS\webGIS_projects\webGIS_1401\project5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\web_GIS\webGIS_projects\webGIS_1401\project5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\web_GIS\webGIS_projects\webGIS_1401\project5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\web_GIS\webGIS_projects\webGIS_1401\project5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Oracle.DataAccess.dll
+D:\web_GIS\webGIS_projects\webGIS_1401\project5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete

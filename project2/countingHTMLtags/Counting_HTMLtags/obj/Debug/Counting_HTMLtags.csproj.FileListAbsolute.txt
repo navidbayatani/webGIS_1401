@@ -1,0 +1,11 @@
+D:\c_sharp\countingHTMLtags\Counting_HTMLtags\bin\Debug\Counting_HTMLtags.exe.config
+D:\c_sharp\countingHTMLtags\Counting_HTMLtags\bin\Debug\Counting_HTMLtags.exe
+D:\c_sharp\countingHTMLtags\Counting_HTMLtags\bin\Debug\Counting_HTMLtags.pdb
+D:\c_sharp\countingHTMLtags\Counting_HTMLtags\obj\Debug\Counting_HTMLtags.csproj.AssemblyReference.cache
+D:\c_sharp\countingHTMLtags\Counting_HTMLtags\obj\Debug\Counting_HTMLtags.csproj.SuggestedBindingRedirects.cache
+D:\c_sharp\countingHTMLtags\Counting_HTMLtags\obj\Debug\Counting_HTMLtags.countingHTMLtags.resources
+D:\c_sharp\countingHTMLtags\Counting_HTMLtags\obj\Debug\Counting_HTMLtags.Properties.Resources.resources
+D:\c_sharp\countingHTMLtags\Counting_HTMLtags\obj\Debug\Counting_HTMLtags.csproj.GenerateResource.cache
+D:\c_sharp\countingHTMLtags\Counting_HTMLtags\obj\Debug\Counting_HTMLtags.csproj.CoreCompileInputs.cache
+D:\c_sharp\countingHTMLtags\Counting_HTMLtags\obj\Debug\Counting_HTMLtags.exe
+D:\c_sharp\countingHTMLtags\Counting_HTMLtags\obj\Debug\Counting_HTMLtags.pdb

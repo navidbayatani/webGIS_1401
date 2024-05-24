@@ -1,0 +1,68 @@
+D:\abbaspur\nearest point\bin\nearest point.dll.config
+D:\abbaspur\nearest point\bin\nearest point.dll
+D:\abbaspur\nearest point\bin\nearest point.pdb
+D:\abbaspur\nearest point\bin\roslyn\csc.exe
+D:\abbaspur\nearest point\bin\roslyn\csc.exe.config
+D:\abbaspur\nearest point\bin\roslyn\csc.rsp
+D:\abbaspur\nearest point\bin\roslyn\csi.exe
+D:\abbaspur\nearest point\bin\roslyn\csi.exe.config
+D:\abbaspur\nearest point\bin\roslyn\csi.rsp
+D:\abbaspur\nearest point\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\abbaspur\nearest point\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\abbaspur\nearest point\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\abbaspur\nearest point\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\abbaspur\nearest point\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\abbaspur\nearest point\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\abbaspur\nearest point\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\abbaspur\nearest point\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\abbaspur\nearest point\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\abbaspur\nearest point\bin\roslyn\Microsoft.Managed.Core.targets
+D:\abbaspur\nearest point\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\abbaspur\nearest point\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\abbaspur\nearest point\bin\roslyn\System.AppContext.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Collections.Immutable.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Console.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Globalization.Calendars.dll
+D:\abbaspur\nearest point\bin\roslyn\System.IO.Compression.dll
+D:\abbaspur\nearest point\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\abbaspur\nearest point\bin\roslyn\System.IO.FileSystem.dll
+D:\abbaspur\nearest point\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Net.Http.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Net.Sockets.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Reflection.Metadata.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\abbaspur\nearest point\bin\roslyn\System.ValueTuple.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Xml.XmlDocument.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Xml.XPath.dll
+D:\abbaspur\nearest point\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\abbaspur\nearest point\bin\roslyn\vbc.exe
+D:\abbaspur\nearest point\bin\roslyn\vbc.exe.config
+D:\abbaspur\nearest point\bin\roslyn\vbc.rsp
+D:\abbaspur\nearest point\bin\roslyn\VBCSCompiler.exe
+D:\abbaspur\nearest point\bin\roslyn\VBCSCompiler.exe.config
+D:\abbaspur\nearest point\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\abbaspur\nearest point\bin\Newtonsoft.Json.dll
+D:\abbaspur\nearest point\bin\Oracle.DataAccess.dll
+D:\abbaspur\nearest point\bin\System.Net.Http.Formatting.dll
+D:\abbaspur\nearest point\bin\System.Web.Http.dll
+D:\abbaspur\nearest point\bin\System.Web.Http.WebHost.dll
+D:\abbaspur\nearest point\bin\Newtonsoft.Json.xml
+D:\abbaspur\nearest point\bin\System.Net.Http.Formatting.xml
+D:\abbaspur\nearest point\bin\System.Web.Http.xml
+D:\abbaspur\nearest point\bin\System.Web.Http.WebHost.xml
+D:\abbaspur\nearest point\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\abbaspur\nearest point\obj\Debug\nearest point.csproj.AssemblyReference.cache
+D:\abbaspur\nearest point\obj\Debug\nearest point.csproj.CoreCompileInputs.cache
+D:\abbaspur\nearest point\obj\Debug\nearest point.csproj.CopyComplete
+D:\abbaspur\nearest point\obj\Debug\nearest point.dll
+D:\abbaspur\nearest point\obj\Debug\nearest point.pdb
